@@ -8,4 +8,4 @@ API scripts that were deployed to cloud run
 4. also git installed on machine
 
 ## entrypoint
-1. main.py
+1. app.py
